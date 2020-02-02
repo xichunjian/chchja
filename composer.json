@@ -1,0 +1,17 @@
+{
+    "name": "chchja1995/chchja",
+    "description": "export mysql data table structure and comments",
+    "keywords": [],
+    "type": "progect",
+    "minimum-stability": "dev",
+    "prefer-stable": "true",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JianGoods\\": "src/"
+        }
+    }
+}
