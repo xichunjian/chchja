@@ -8,7 +8,7 @@ use DateTimeInterface;
 class JianCookie
 {
     /**
-     * 配置参数
+     * 配置 参 数
      * @var array
      */
     protected $config = [
