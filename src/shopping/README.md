@@ -19,4 +19,3 @@ CREATE TABLE `tp_cart` (
   KEY `member_id` (`buyer_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8 AVG_ROW_LENGTH=1170 COMMENT='购物车表';
 ```
-2. 
