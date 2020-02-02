@@ -18,7 +18,7 @@ class Shopping
      */
     public function setCookie($goodsDate)
     {
-//        $_COOKIE['']
+          return true;
     }
 
 
